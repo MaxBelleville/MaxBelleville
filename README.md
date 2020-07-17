@@ -1,7 +1,6 @@
-## Hi there! My name is Max Belleville and I code things.
-
-### [Portfolio](https://maxbelleville.github.io/my-portfolio/home)
-
+<style>
+  * {background-color:black;}
+</style>
 <!--
 **MaxBelleville/MaxBelleville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
