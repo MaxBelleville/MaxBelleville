@@ -1,5 +1,5 @@
 ## Hi there! My name is Max Belleville and I code things.
-hr
+
 ### [Portfolio](https://maxbelleville.github.io/my-portfolio/home)
 
 <!--
