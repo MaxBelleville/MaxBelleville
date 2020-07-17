@@ -1,4 +1,4 @@
-## Hello There! My name is max Belleville and I code things.
+## Hello There! My name is Max Belleville and I code things.
 
 ### [Portfolio](https://maxbelleville.github.io/my-portfolio/home)
 <!--
