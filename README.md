@@ -1,6 +1,5 @@
-<style>
-  * {background-color:black;}
-</style>
+## Hello There! My name is max Belleville and I code things.
+### [Portfolio] https://maxbelleville.github.io/my-portfolio/home [Itch.io] https://sirnoisy.itch.io/
 <!--
 **MaxBelleville/MaxBelleville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
