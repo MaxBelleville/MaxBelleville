@@ -1,6 +1,6 @@
-## Hello There! My name is Max Belleville(any pronouns) and I code things.
+## Hello There! My name is Max Belleville and I code things.
 
-I am a computer science university graduate with 8 of personal experience. 
+Or more proffesionally: I am a computer science university graduate with 8 of personal experience in software/web development. 
 
 My portfolio is being redone using next.js mdx and,three.js so heres some  information me in the mean time:
 - 🔭 Outside of my portfolio I’m currently working on A voxel based engine godot, marching cubes and possibly wfc.
